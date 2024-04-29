@@ -1,7 +1,7 @@
 // Get references to the elements
 const stars = document.getElementById('stars');
 const moon = document.getElementById('moon');
-const mountains_behind = document.getElementById('mountains_behind'); 
+const mountains_behind = document.getElementById('mountains_behind');  
 const text = document.getElementById('text');
 const btn = document.getElementById('btn');
 const mountains_front = document.getElementById('mountains_front');
